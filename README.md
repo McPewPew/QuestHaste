@@ -1,4 +1,4 @@
-# QuestHaste by Woblight
+# QuestHaste 0.4 by Woblight
 
 ## Intro:
 
