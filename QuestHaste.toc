@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: QuestHaste
+## Notes: boost your quest delivery
+## SavedVariables: QuestHaste
+## Version: 0.4
+## Author: WobLight
+QuestHaste.lua
